@@ -1,6 +1,6 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: #643d87 url(imagem/fundo.jpg) no-repeat top center;
+    background: #643d87 url(fundo.jpg) no-repeat top center;
 }
 #container {
     width: 400px;
@@ -33,10 +33,10 @@ input {
     background-position: 10px;
 }
 input.email {
-    background-image: url(imagem/icone-usuario.png) ;
+    background-image: url(icone-usuario.png) ;
 }
 input.senha {
-    background-image: url(imagem/icone-cadeado.png) ;
+    background-image: url(icone-cadeado.png) ;
 }
 input.submit {
     color: #fff;
@@ -51,4 +51,5 @@ input.submit {
     background: -webkit-linear-gradient(to bottom, #faa600, #f68a00);
     background: -moz-linear-gradient(to bottom, #faa600, #f68a00);
     background: linear-gradient(to bottom, #faa600, #f68a00);
+
 }
